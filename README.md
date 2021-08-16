@@ -1,7 +1,7 @@
 # C++ Minimax Tic-Tac-Toe
 
 ## Introduction
-This project was an assignment for a 4th year artificial intelligence course. We were tasked with using the Minimax algorithm to create an AI for Tic-Tac-Toe. We were asked to do this in C++ on top of a simple OpenGL rendering framework written by the TA.
+This project was an assignment for a 4th year artificial intelligence course in 2019. We were tasked with using the Minimax algorithm to create an AI for Tic-Tac-Toe. We were asked to do this in C++ on top of a simple OpenGL rendering framework written by the TA.
 
 ## Code Overview
 - Most of the game logic can be found within TicTacToeBoard.h/cpp
